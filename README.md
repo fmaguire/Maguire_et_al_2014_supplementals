@@ -8,10 +8,10 @@ Genome Biology and Evolution, 2014
 
 Contents:
 
-*    supplemental_phylogenies: Fig. S1-S7 and phylogeny used for Fig. 3 (all in pdf format)
-*    supplemental_masked_alignments: Fig. S1-S6 mask in mase format
-*    figure_S7_concatenated_alignment: Fig. S7 alignment (phylip format)
-*    figure_3_alignment: Fig. 3 alignment and sequences used (fasta format)
-*    all_taxa_represented_in_phylogenies: lists of all taxa in Fig 3. and Fig. S1-S7 
+*    **supplemental_phylogenies:** Fig. S1-S7 and phylogeny used for Fig. 3 (all in pdf format)
+*    **supplemental\_masked\_alignments:** Fig. S1-S6 mask in mase format
+*    **figure\_S7\_concatenated\_alignment:** Fig. S7 alignment (phylip format)
+*    **figure\_3\_alignment:** Fig. 3 alignment and sequences used (fasta format)
+*    **all\_taxa\_represented\_in\_phylogenies:** lists of all taxa in Fig 3. and Fig. S1-S7 
 
 
