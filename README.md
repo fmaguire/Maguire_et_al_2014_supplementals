@@ -13,5 +13,6 @@ Contents:
 *    **figure\_S7\_concatenated\_alignment:** Fig. S7 alignment (phylip format)
 *    **figure\_3\_alignment:** Fig. 3 alignment and sequences used (fasta format)
 *    **all\_taxa\_represented\_in\_phylogenies:** lists of all taxa in Fig 3. and Fig. S1-S7 
+*    **REFGEN\_indices:** indices for renaming REFGEN tags (contains tags not in final version of trees)
 
 
